@@ -1,0 +1,7 @@
+echo "# mina59" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git شاخه -M اصلی 
+git از راه دور اضافه کردن منبع https://github.com/mina59/mina59.git
+ git push -u origin اصلی
